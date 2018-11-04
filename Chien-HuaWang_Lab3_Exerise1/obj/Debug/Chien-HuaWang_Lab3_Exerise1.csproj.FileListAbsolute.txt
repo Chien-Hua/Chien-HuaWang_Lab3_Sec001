@@ -1,0 +1,10 @@
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\Chien-HuaWang_Lab3_Exerise1\bin\Debug\Chien-HuaWang_Lab3_Exerise1.exe
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\Chien-HuaWang_Lab3_Exerise1\bin\Debug\Chien-HuaWang_Lab3_Exerise1.exe.config
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\Chien-HuaWang_Lab3_Exerise1\bin\Debug\Chien-HuaWang_Lab3_Exerise1.pdb
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\Chien-HuaWang_Lab3_Exerise1\obj\Debug\Chien_HuaWang_Lab3_Exerise1.Form1.resources
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\Chien-HuaWang_Lab3_Exerise1\obj\Debug\Chien_HuaWang_Lab3_Exerise1.Properties.Resources.resources
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\Chien-HuaWang_Lab3_Exerise1\obj\Debug\Chien-HuaWang_Lab3_Exerise1.csproj.GenerateResource.cache
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\Chien-HuaWang_Lab3_Exerise1\obj\Debug\Chien-HuaWang_Lab3_Exerise1.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\Chien-HuaWang_Lab3_Exerise1\obj\Debug\Chien-HuaWang_Lab3_Exerise1.exe
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\Chien-HuaWang_Lab3_Exerise1\obj\Debug\Chien-HuaWang_Lab3_Exerise1.pdb
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\Chien-HuaWang_Lab3_Exerise1\obj\Debug\Chien-HuaWang_Lab3_Exerise1.csprojAssemblyReference.cache

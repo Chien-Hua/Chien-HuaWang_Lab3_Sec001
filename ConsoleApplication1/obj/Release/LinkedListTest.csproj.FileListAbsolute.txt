@@ -1,0 +1,10 @@
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\ConsoleApplication1\obj\Release\LinkedListTest.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\ConsoleApplication1\obj\Release\LinkedListTest.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\ConsoleApplication1\bin\Release\LinkedListLibrary.dll
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\ConsoleApplication1\bin\Release\LinkedListLibrary.pdb
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\ConsoleApplication1\obj\Release\LinkedListTest.csproj.CopyComplete

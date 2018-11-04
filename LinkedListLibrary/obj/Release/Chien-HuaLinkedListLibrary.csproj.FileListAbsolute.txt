@@ -1,0 +1,6 @@
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\LinkedListLibrary\bin\Release\LinkedListLibrary.pdb
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\LinkedListLibrary\obj\Release\Chien-HuaLinkedListLibrary.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\LinkedListLibrary\obj\Release\Chien-HuaLinkedListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\LinkedListLibrary\obj\Release\LinkedListLibrary.dll
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\LinkedListLibrary\obj\Release\LinkedListLibrary.pdb
+C:\Users\owner\Desktop\Chien-HuaWang_Lab3_Sec001\LinkedListLibrary\bin\Release\LinkedListLibrary.dll
